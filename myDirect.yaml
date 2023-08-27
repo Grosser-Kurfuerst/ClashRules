@@ -1,0 +1,16 @@
+payload:
+  - DOMAIN,clash.razord.top
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN-SUFFIX,clfans.club
+  - DOMAIN-KEYWORD,clfans
+  - DOMAIN-SUFFIX,sumgal.com
+  - DOMAIN-KEYWORD,sumgal
+  - DOMAIN-KEYWORD,summeread
+  - DOMAIN-SUFFIX,soraacg.xyz
+  - DOMAIN-SUFFIX,summeread.com
+  - DOMAIN-SUFFIX,segmentfault.com
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,microsoftstore.com
+  - DOMAIN-SUFFIX,microsoftstore.com.cn
+  - DOMAIN-SUFFIX,microsoft.com
