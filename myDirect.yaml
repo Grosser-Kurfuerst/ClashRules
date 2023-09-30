@@ -10,7 +10,6 @@ payload:
   - DOMAIN-SUFFIX,summeread.com
   - DOMAIN-SUFFIX,segmentfault.com
   - DOMAIN-SUFFIX,bing.cn
-  - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,xboxlive.cn
   - DOMAIN-SUFFIX,msftconnecttest.com
