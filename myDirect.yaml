@@ -11,7 +11,7 @@ payload:
   - DOMAIN-SUFFIX,summeread.com
   - DOMAIN-SUFFIX,segmentfault.com
   - DOMAIN-SUFFIX,bing.cn
-  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,cn.bing.com
   - DOMAIN-SUFFIX,kurfuerst.online
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,xboxlive.cn
