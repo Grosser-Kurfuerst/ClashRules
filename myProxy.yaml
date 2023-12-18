@@ -11,3 +11,5 @@ payload:
   - DOMAIN-KEYWORD,atomlantis
   - DOMAIN-SUFFIX,v2rayssr.com
   - DOMAIN-SUFFIX,nyaa.si
+  - DOMAIN-SUFFIX,qobuz.com
+  - DOMAIN-SUFFIX,tidal.com
