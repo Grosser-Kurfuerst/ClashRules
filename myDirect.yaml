@@ -4,11 +4,7 @@ payload:
   - DOMAIN,yacd.haishan.me
   - DOMAIN-SUFFIX,clfans.club
   - DOMAIN-KEYWORD,clfans
-  - DOMAIN-SUFFIX,sumgal.com
-  - DOMAIN-KEYWORD,sumgal
-  - DOMAIN-KEYWORD,summeread
-  - DOMAIN-SUFFIX,soraacg.xyz
-  - DOMAIN-SUFFIX,summeread.com
+  - DOMAIN-SUFFIX,soraacg.com
   - DOMAIN-SUFFIX,segmentfault.com
   - DOMAIN-SUFFIX,bing.cn
   - DOMAIN-SUFFIX,cn.bing.com
