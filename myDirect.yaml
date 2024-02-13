@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,vpn.nju.edu.cn
+  - DOMAIN-SUFFIX,itxia.cn
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
   - DOMAIN-SUFFIX,clfans.club
