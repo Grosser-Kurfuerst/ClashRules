@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,nju.edu.cn
+  - DOMAIN-SUFFIX,byr.pt
   - IP-CIDR,114.212.203.205/32,no-resolve
   - IP-CIDR,172.29.7.112/32,no-resolve
   - IP-CIDR,172.26.0.0/16,no-resolve
