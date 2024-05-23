@@ -20,6 +20,8 @@ payload:
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,reimu.net
+  - DOMAIN-SUFFIX,roon.app
+  - DOMAIN-SUFFIX,roonlabs.net
   - IP-CIDR,8.8.8.8/32,no-resolve
   - IP-CIDR,1.1.1.1/32,no-resolve
   - IP-CIDR,9.9.9.9/32,no-resolve
