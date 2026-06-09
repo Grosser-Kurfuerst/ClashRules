@@ -1,28 +1,39 @@
 payload:
-  - DOMAIN-SUFFIX,challenges.cloudflare.com
-  - DOMAIN-KEYWORD,sentry
-  - DOMAIN-SUFFIX,yoututz.top
-  - DOMAIN-SUFFIX,steamcommunity.com
-  - DOMAIN-SUFFIX,steampowered.com
-  - DOMAIN-KEYWORD,mikanani
-  - DOMAIN-SUFFIX,pixiv.net
-  - DOMAIN-SUFFIX,onedrive.live.com
-  - DOMAIN-KEYWORD,machbbs
-  - DOMAIN-KEYWORD,atomlantis
-  - DOMAIN-SUFFIX,v2rayssr.com
-  - DOMAIN-SUFFIX,nyaa.si
-  - DOMAIN-SUFFIX,qobuz.com
-  - DOMAIN-SUFFIX,tidal.com
-  - DOMAIN-SUFFIX,hires6.com
-  - DOMAIN-SUFFIX,wargaming.net
-  - DOMAIN-SUFFIX,kuromis.com
-  - DOMAIN-SUFFIX,apkpure.net
-  - DOMAIN-SUFFIX,ipleak.net
-  - DOMAIN-SUFFIX,browserleaks.com
-  - DOMAIN-SUFFIX,reimu.net
-  - DOMAIN-SUFFIX,roon.app
-  - DOMAIN-SUFFIX,roonlabs.net
-  - IP-CIDR,8.8.8.8/32,no-resolve
-  - IP-CIDR,1.1.1.1/32,no-resolve
-  - IP-CIDR,9.9.9.9/32,no-resolve
-  - IP-CIDR,8.8.4.4/32,no-resolve
+- DOMAIN-SUFFIX,apkpure.net
+- DOMAIN-SUFFIX,browserleaks.com
+- DOMAIN-SUFFIX,challenges.cloudflare.com
+- DOMAIN-SUFFIX,ipleak.net
+- DOMAIN-SUFFIX,kuromis.com
+- DOMAIN-SUFFIX,msn.cn
+- DOMAIN-SUFFIX,misaka.io
+- DOMAIN-SUFFIX,nyaa.si
+- DOMAIN-SUFFIX,onedrive.live.com
+- DOMAIN-SUFFIX,pixiv.net
+- DOMAIN-SUFFIX,ping0.cc
+- DOMAIN-SUFFIX,qobuz.com
+- DOMAIN-SUFFIX,reimu.net
+- DOMAIN-SUFFIX,roonlabs.net
+- DOMAIN-SUFFIX,roon.app
+- DOMAIN-SUFFIX,roonlabs.com
+- DOMAIN-SUFFIX,steamcommunity.com
+- DOMAIN-SUFFIX,steampowered.com
+- DOMAIN-SUFFIX,tidal.com
+- DOMAIN-SUFFIX,v2rayssr.com
+- DOMAIN-SUFFIX,wargaming.net
+- DOMAIN-SUFFIX,yoututz.top
+- DOMAIN-SUFFIX,yinhuadm.cc
+
+- GEOSITE,github
+- GEOSITE,jetbrains
+- GEOSITE,onedrive
+
+- DOMAIN-KEYWORD,atomlantis
+- DOMAIN-KEYWORD,docker
+- DOMAIN-KEYWORD,grazie.aws.intellij.net
+- DOMAIN-KEYWORD,grazie.ai
+- DOMAIN-KEYWORD,machbbs
+- DOMAIN-KEYWORD,mikanani
+- DOMAIN-KEYWORD,sentry
+- DOMAIN-KEYWORD,z-library
+
+- DOMAIN,packages.microsoft.com
