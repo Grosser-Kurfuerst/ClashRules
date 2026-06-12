@@ -23,5 +23,6 @@ payload:
 - DOMAIN-KEYWORD,test-ipv6
 
 - DOMAIN,vpn.nju.edu.cn
+- DOMAIN,time.windows.com
 
 - SRC-IP-CIDR,192.168.1.210/32
