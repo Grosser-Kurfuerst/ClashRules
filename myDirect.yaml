@@ -2,7 +2,7 @@ payload:
 - DOMAIN-SUFFIX,deepseek.com
 - DOMAIN-SUFFIX,gov.hk
 
-- DOMAIN-KEYWORD,mtalk.google.com
+#- DOMAIN-KEYWORD,mtalk.google.com
 
 - DOMAIN-SUFFIX,hf-mirror.com
 - DOMAIN-KEYWORD,ipv6-test
