@@ -37,3 +37,5 @@ payload:
 - DOMAIN-KEYWORD,z-library
 
 - DOMAIN,packages.microsoft.com
+
+- IP-CIDR,192.204.33.113/32
