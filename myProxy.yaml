@@ -25,7 +25,7 @@ payload:
 
 - GEOSITE,github
 - GEOSITE,jetbrains
-- GEOSITE,onedrive
+
 
 - DOMAIN-KEYWORD,atomlantis
 - DOMAIN-KEYWORD,docker
